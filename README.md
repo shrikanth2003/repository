@@ -1,2 +1,1 @@
-# repository
-my frst repository
+" POLYTECHNIC COLLEGE" 
